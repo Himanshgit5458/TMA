@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trans-maldividan-airways",
+  "private_key_id": "600438efe5d0ad0a39253c3440443ea0cf93bc02",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQD/DR1K1jVxOwh4\npze1LNDi33jQHTx6g5wpX9F5mG0+wsUj5Vv8EC9W9EADbfI/uXOl1xvcatcKQG2F\na5SZsR6t5lQNu+UZm9LjM4UrwqKr2J4I4wVctyrV+HaP+tNcTlMommJEEHosPbmO\nqPwLANQE4a22JKAPSA3QFqHlwQ/cA9eAq9cO1+3U9Ke4NPI8JYkmzcE/s4Y88Pzy\nDIx4cMUMmGd6UBVc8nv5yD8mup39l6vgyuSrgK2PQm0H5aPpm6U6FWnbddI9/Z8P\n2da04TjSe7/x3XgWCXDozGpDhu8hKi0aK5lfb/Ibq35K3z47PAdP7yetiwHrhXzI\nIG96z2KPAgMBAAECgf90AthshzvH04QG65bdCtrcVzuAUcwUJuWL7EJ4YflPBJ41\nfMjMF3Qbp2+vdP3X/oLU7Fijd/V0tEtVugsy+c9sZq1jIBQxyq8FjNt377rx/c7I\nAyX7eAAD/lV90tJQ8U+Mtqxtnp9JDpGRbtoZtWMs1UFK7ZbEB1eWa5iNzJiGlokz\nczKqgDj5HQO4v+zJUigdJoSZ+Bv98YPaHoccagELoxKqlt0lSv7Y2AZbe1BHrolU\n2+M7QQSt+/5Q2TK6+EoOB6L40I41oRl4NCXJUQ0mW5mNjncj3xrrr9vVAJ3kp085\nZrTADZ4UEAb9v5bq3+fsW/aPQvvd5ORtRwSgpcECgYEA/7Byjvv6wdfNwwiZPKHo\nGZyRjYc0pgDxXKkZSpcJqD8rkNwh0zrHZTjMEmcL8rSRZwp0v06I1dUBrKeXC7R+\nbVq8Amxo1VUPRE+23i+1AOwS694730MJ6jVKoHo+nHX6KdrchIwGFACjdghC+lMz\nG7sghMx4EBiuAFM8G6Mz/DMCgYEA/1x36oFzKEKFNedVKHRTTR5SwHrYLvntqBAa\n+NMeT1WK3kGcPNp+zx4ppbYE44D5PL88/hSYg9fN7aPUjG5kv2QFkDlLlYdNrNqV\npP//32yYCQlFtZUwVJffV4vJSlk/7v82UY/KR9TlHOe+pxVtN4Gox3RduCL85r5K\nMGMXJDUCgYEAmBUWfq+oHgZDT/9cTfErgZhcBudlzFuBNJEsBu7Bgr5YJmiZAe/T\nTAS1dTivpaP7XGOev29x+mYhAdYJBKBOFrNCYtqinElktEgJyCxuJ+dC9eKQkCJq\n0lDyW3N6rEuMCbsxMPGsZ9ddYsZVOFmma5cpJ3QK8eAMFwtrFDFFqXsCgYBjICHs\nhhONrUTIh+QmsAEmDn9Q+F6y3ZHDi3zs2gcKBMrDO/TKKobPH4ZLLTz4kzgsvI+Q\nka4if8MQXGhFmxTAtrLyKUuN39fnIXK1eip5ME5UM6U7t43rSIkKEtkwYzTOMYOE\nZay/9YR6k/sOIOMkiNBbnHBE6lABwhxKbCyvgQKBgDMZEYfstd/PhGnbZ8997q4X\nLWf4fKgWyjh5S6qySHEQjSUpi1es5sJ7316GVdLFYk2UddnuNQFFtriY+7tJBqEh\nzA/3IvLSoNvV2lyUfmsAadAlURda3igYdBz/gbVLDp3ql4i3uPfbNiXf41MH/ykN\n5zbMWzSfHBejQTZGDNdJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "tma-408@trans-maldividan-airways.iam.gserviceaccount.com",
+  "client_id": "115591400082004115243",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tma-408%40trans-maldividan-airways.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
